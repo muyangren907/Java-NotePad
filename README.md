@@ -1,32 +1,32 @@
-»ùÓÚJavaµÄ¼ÇÊÂ±¾
+åŸºäºJavaçš„è®°äº‹æœ¬
 ===========
 
-![Ô¤ÀÀÍ¼](https://raw.githubusercontent.com/muyangren907/Java-NotePad/master/screenshot/1.png)
+![é¢„è§ˆå›¾](https://raw.githubusercontent.com/muyangren907/Java-NotePad/master/screenshot/1.png)
 
-## ËµÃ÷
+## è¯´æ˜
 
-- Java±àĞ´µÄ¼ÇÊÂ±¾£¬½ö¹©²Î¿¼
+- Javaç¼–å†™çš„è®°äº‹æœ¬ï¼Œä»…ä¾›å‚è€ƒ
 
-## Ê¹ÓÃ
+## ä½¿ç”¨
 
-###	¢Ù
+###	â‘ 
 
-- ÏÂÔØÔ´´úÂë
+- ä¸‹è½½æºä»£ç 
 
-- ±àÒë
+- ç¼–è¯‘
 
 ```
 javac MyNotePad.java -d ./ -encoding utf-8
 ```
 
--	ÔËĞĞ
+-	è¿è¡Œ
 
 ```
 java MyNotePad
 ```
 
-### ¢Ú
+### â‘¡
 
-- ÏÂÔØjar°üÔËĞĞ
+- ä¸‹è½½jaråŒ…è¿è¡Œ
 
  [Releases](https://github.com/muyangren907/Java-NotePad/releases)
