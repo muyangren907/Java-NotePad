@@ -1,7 +1,7 @@
 基于Java的记事本
 ===========
 
-![预览图](https://raw.githubusercontent.com/muyangren907/Java-NotePad/master/screenshot/1.png)
+![预览图](https://raw.githubusercontent.com/muyangren907/Java-NotePad/master/screenshots/1.png)
 
 ## 说明
 
